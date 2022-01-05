@@ -1,0 +1,24 @@
+body{
+    font-family: 'Rubik', sans-serif;
+    margin: 0;
+}
+h1{
+    font-size:50px;
+    
+}
+.sakib{ color:orange;}
+section{
+    display:flex;
+}
+.half{
+    width: 50%;
+    padding-left:5% ;
+
+}
+.half img{width:400px;
+height: 400px;
+padding-left: 10%;}
+.sadia{
+    background-image: url(images/top-banner.png);
+    background-repeat: no-repeat;
+}
